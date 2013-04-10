@@ -59,10 +59,10 @@ public class ImageServerViewerView extends View {
 			canvas.drawBitmap(bitmap, src, dst, paint);
 		}
 
-		String uri_msg = "post uri: " + uri;
+		String uri_msg = "source uri: " + uri;
 		drawText(uri_msg, 10, 70, 36, canvas);
 
-		String status_msg = "last status: " + last_status;
+		String status_msg = "status code: " + last_status;
 		drawText(status_msg, 10, 150, 36, canvas);
 
 	}
