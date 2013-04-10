@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <EditTextPreference android:key="@string/url_default_value" android:title="@string/url_title" android:enabled="true" android:summary="@string/url_summary" android:defaultValue="@string/url_default_value"/>
+    <EditTextPreference android:key="@string/url_key" android:title="@string/url_title" android:enabled="true" android:summary="@string/url_summary" android:defaultValue="@string/url_default_value"/>
 </PreferenceScreen>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">ImageServerViewer</string>
+    <string name="app_name">ISV</string>
     <string name="menu_settings">Settings</string>
-    <string name="url_key">URL</string>
+    <string name="url_key">url</string>
     <string name="url_title">URL</string>
     <string name="url_summary">画像取得先のURLを指定します</string>
     <string name="url_default_value">http://example.com:20080/image_jpeg?name=camera0</string>
-    <string name="titie_image_server_viewer_preference_activity">ImageServerViewer設定</string>
+    <string name="titie_image_server_viewer_preference_activity">ISV設定</string>
 
 </resources>
